@@ -29,7 +29,6 @@ ngrok config add-authtoken YOUR_AUTHTOKEN_HERE
 
 ---
 # Screenshot
----
 
 ![image](https://github.com/user-attachments/assets/e87d409c-460e-4c8b-97a7-7c5d2ffaf37e)
 
