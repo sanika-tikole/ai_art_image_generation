@@ -21,11 +21,11 @@ ngrok config add-authtoken YOUR_AUTHTOKEN_HERE
 
 ---
 # 🧠 How It Works
-The app loads Stable Diffusion v1.5 using the Hugging Face diffusers library.
-User enters a prompt on the web page.
-The prompt is passed to the model which generates an image.
-The image is displayed directly in the browser using base64 encoding.
-The entire app is served on a public URL using ngrok.
+- The app loads Stable Diffusion v1.5 using the Hugging Face diffusers library.
+- User enters a prompt on the web page.
+- The prompt is passed to the model which generates an image.
+- The image is displayed directly in the browser using base64 encoding.
+- The entire app is served on a public URL using ngrok.
 
 ---
 # 👨‍💻 Author
