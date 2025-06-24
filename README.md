@@ -28,6 +28,9 @@ ngrok config add-authtoken YOUR_AUTHTOKEN_HERE
 - The entire app is served on a public URL using ngrok.
 
 ---
+
+![image](https://github.com/user-attachments/assets/e87d409c-460e-4c8b-97a7-7c5d2ffaf37e)
+
 # 👨‍💻 Author
 Developed by [sanika tikole].
 Feel free to fork or modify this project for your own experiments.
